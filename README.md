@@ -1,4 +1,4 @@
-# anipedia
+
 
 ## Project setup
 ```
